@@ -1,6 +1,6 @@
 # Comments_Emotions_Classifier
 
-usign open source amazon review data, to build a model and classifier. The model is used to  classify reviews based on the emotions as positive or negative.
+using open source amazon review data, to build a model and classifier. The model is used to  classify reviews based on the emotions as positive or negative.
 
 also in the same program we also classify the product into different categories of the product category type.
 
